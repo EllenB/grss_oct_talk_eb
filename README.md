@@ -7,7 +7,7 @@ IEEE GRSS MIT Bangalore
 Research Conclave 2026
 
 
-This works is still under progress .... 
+This work is still under progress .... 
 
 
 Comments welcome. Please log a Github issue if needed. Thanks!
